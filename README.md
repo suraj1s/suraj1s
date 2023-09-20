@@ -4,7 +4,7 @@ Technical Skills:
 
   Languages: JavaScript, C, C++, HTML, CSS
   
-  Front-End: React, Redux-Toolkit, Tailwind CSS
+  Front-End: React, Redux-Toolkit, Tailwind CSS , NextJs , typescript
   
   Back-End: Node.js, Express.js, MongoDB, REST API
   
