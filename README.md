@@ -2,9 +2,9 @@ A passionate learner with full-stack expertise and solid problem-solving acumen.
 
 Technical Skills:
 
-  Languages: JavaScript, C, C++, HTML, CSS
+  Languages: JavaScript, C, C++, HTML, CSS, typescript, Golang
   
-  Front-End: React, Redux-Toolkit, Tailwind CSS , NextJs , typescript
+  Front-End: React, Redux-Toolkit, Tailwind CSS, NextJs
   
   Back-End: Node.js, Express.js, MongoDB, REST API
   
@@ -14,3 +14,4 @@ Technical Skills:
   
 
 LinkedIn: https://www.linkedin.com/in/suraj-sharma-69689b24a/
+Portfolio: https://www.suraj01.com.np
